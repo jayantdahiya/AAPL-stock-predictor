@@ -8,3 +8,4 @@ previous values of the stock.
 To install Quandl library: 
 > pip install Quandl
 
+**To run the code copy stock(AAPL).py file and run it on http://colab.research.google.com**
