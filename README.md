@@ -1,9 +1,10 @@
 # AAPL-stock-predictor
-AAPL stock prediction python code
+### AAPL stock prediction python code
 
 This is a python designed code that implements linear regression to estimate the stock value of Apple.Inc based on the 
 previous values of the stock.
 
-The code requires pandas, sikit-learn and Quandl library.
-To install Quandl library: 'pip install Quandl'
+**The code requires pandas, scikit-learn and Quandl library.**
+To install Quandl library: 
+> pip install Quandl
 
